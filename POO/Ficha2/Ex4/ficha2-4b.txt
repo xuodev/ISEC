@@ -1,0 +1,1 @@
+os ponteiros são necessários para que a função possa modificar as variáveis originais e não apenas cópias dos seus valores. ✅
